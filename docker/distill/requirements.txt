@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-Flask==0.10.1
+Flask==1.0
 #networkx==1.11
 elasticsearch-dsl==2.0.0
 #numpy>=1.10.0
