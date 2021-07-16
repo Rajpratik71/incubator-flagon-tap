@@ -72,7 +72,7 @@ setup (
     zip_safe = False,
     setup_requires = ['pytest-runner'],
     tests_require = ['pytest>=3.0.0', 'pytest-pylint', 'coverage'],
-    install_requires = ['Flask==0.10.1', 
+    install_requires = ['Flask==1.0', 
                         #'networkx==1.11',
                         'elasticsearch-dsl==2.0.0', 
                         #'numpy>=1.10.0', 
